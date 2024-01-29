@@ -1,11 +1,12 @@
-# Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
-<img href="portifolio.png" alt="Portfólio">
+# Bem-vindo ao meu projeto de portfólio.
 
-## Ferramentas utilizadas:
+<img src="portifolio.png" alt="Portfólio">
 
-* HTML
+<h2>Ferramentas utilizadas:</h2>
 
-* CSS
-
-* Flex-box
+<ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>Flex-box</li>
+</ul>
